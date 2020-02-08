@@ -29,3 +29,25 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+## Answers
+
+1. a git is a terminal command
+
+2. bash is a bash command with a different functionality
+
+3. cd
+
+4. a coding 'grammar-checker'
+
+5. there is a missing syntax ie. . , ; ( etc.
+
+6. const
+
+7. install manager
+
+8. java script object notation
+
+9. installs the selected 
+
+10. string, boolean, number
